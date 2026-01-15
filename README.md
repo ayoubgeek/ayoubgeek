@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=SYSTEM_BOOT_SEQUENCE_INITIATED...;USER_ID%3A+AYOUBGEEK;NAME%3A+AYOUB_ELHAJJI;ROLE%3A+AVIATION_DATA_ENGINEER;STATUS%3A+OPERATIONAL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=SYSTEM_BOOT_SEQUENCE_INITIATED...;USER_ID%3A+AYOUBGEEK;ROLE%3A+AVIATION_DATA_ENGINEER;STATUS%3A+OPERATIONAL" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,28 +26,28 @@ Experienced Aviation Operations Officer transitioning into **Data Engineering**.
 
 ## // EQUIPMENT_LOADOUT (Tech Stack)
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚙️ CORE_MECHANICS</h3>
-      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-    <td align="center" width="33%">
-      <h3>📡 TELEMETRY_DATA</h3>
-      <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/AIXM_5-FF6600?style=for-the-badge&logo=rss&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🛰️ FIELD_OPS</h3>
-      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h3>⚙️ CORE_MECHANICS</h3>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<br /><br />
+
+<h3>📡 TELEMETRY_DATA</h3>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/AIXM_5-FF6600?style=for-the-badge&logo=rss&logoColor=white" />
+
+<br /><br />
+
+<h3>🛰️ FIELD_OPS</h3>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
 
 ---
 
@@ -75,9 +75,7 @@ Experienced Aviation Operations Officer transitioning into **Data Engineering**.
 ## // PERFORMANCE_METRICS
 
 <div align="center">
-  
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-INITIALIZING_DATA_COLLECTION-000000?style=for-the-badge&labelColor=FF6600&color=1a1a1a" alt="System Init" />
-
 </div>
 
 ---
