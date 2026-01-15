@@ -93,7 +93,7 @@ I work at the intersection of **aviation operations**, **data engineering**, and
 * **Automation Tools:** Risk reduction for repetitive workflows.
 * **Clean APIs:** Documented access points for aviation data.
 
-### 🧪 ENGINEERING_PRINCIPLES (SOP)
+### ENGINEERING_PRINCIPLES (SOP)
 1.  **Correctness beats cleverness.**
 2.  **Readable code > smart tricks.**
 3.  **Data integrity is a feature.**
