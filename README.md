@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=FF6600&color=1a1a1a" alt="Status" />
   <img src="https://img.shields.io/badge/ENVIRONMENT-SAFETY_CRITICAL-000000?style=for-the-badge&labelColor=4B5320&color=1a1a1a" alt="Env" />
   <img src="https://img.shields.io/badge/PRECISION-HIGH_REGULATION-000000?style=for-the-badge&labelColor=333333&color=1a1a1a" alt="Precision" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgeek&layout=compact&theme=tokyonight" />
+
 
 </div>
 
@@ -114,7 +116,13 @@ I work at the intersection of **aviation operations**, **data engineering**, and
 </div>
 
 ---
+<div align="center">
 
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayoubgeek&theme=tokyonight)
+
+</div>
+
+---
 ### // TRANSMISSION_CHANNELS
 <div align="center">
 <a href="https://www.linkedin.com/in/ayoubelhajji" target="_blank">
