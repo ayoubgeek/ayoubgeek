@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=FF6600&color=1a1a1a" alt="Status" />
   <img src="https://img.shields.io/badge/ENVIRONMENT-SAFETY_CRITICAL-000000?style=for-the-badge&labelColor=4B5320&color=1a1a1a" alt="Env" />
   <img src="https://img.shields.io/badge/PRECISION-HIGH_REGULATION-000000?style=for-the-badge&labelColor=333333&color=1a1a1a" alt="Precision" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgeek&layout=compact&theme=tokyonight" />
-
 
 </div>
 
